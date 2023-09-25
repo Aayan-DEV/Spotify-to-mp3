@@ -6,7 +6,6 @@ It downloads all your songs from your playlist into MP3 format in a folder, usin
 - Python (latest version)
 - Browser 
 - Spotify Developer Account 
-
 ### Steps:
 - Create a Spotify developer account.
 - Create an app. (For now write any random link for URI)
