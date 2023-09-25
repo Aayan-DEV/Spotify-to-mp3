@@ -31,4 +31,4 @@ It downloads all your songs from your playlist into MP3 format in a folder, usin
 - Do note that when running again, you can use your previous credentials, but just to be sure make sure in the credentials text file, you should **add /callback** into the ngrok link if not already there.
 <br/>
 ### Issues:
-- If the developer dashboard doesn't work on your PC, Try a different device! For me, I had to use my mobile.
+- If the developer dashboard doesn't work on your PC, **Try a different device!** For me, I had to use my mobile.
